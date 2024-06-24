@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157b6b00f4c3b20439189e0d1a2b2f2b, type: 3}
+  m_Name: BaseMisiones
+  m_EditorClassIdentifier: 
+  misions:
+  - nombre: 'La Bibliotecaria '
+    descripcion: 'Te encuentras perdido en este lugar hinospito, encuentra al personaje
+      "Bibliotecaria" quien te va ayudar. '
+    id: 0
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: 
+      cantidad: 0
+      itemId: 0
+    Pregunta: 1
+    Puntos: 600
+  - nombre: 'El tiempo vuela '
+    descripcion: 'Recolecta 10 relojes para que tus puntos no disminuyan sino que
+      aumenten '
+    id: 1
+    type: 0
+    SeQuedaConItems: 1
+    Dato:
+      nombre: Relojes
+      cantidad: 10
+      itemId: 4
+    Pregunta: 1
+    Puntos: 600
+  - nombre: 'Circuitos de ayuda '
+    descripcion: 'Ayudame a recolectar los circuitos verdes que se encuentran dispersos
+      en este lugar. '
+    id: 2
+    type: 0
+    SeQuedaConItems: 1
+    Dato:
+      nombre: CircuitosMemoria
+      cantidad: 4
+      itemId: 1
+    Pregunta: 1
+    Puntos: 300
+  - nombre: 'Fiebre de puntos '
+    descripcion: 'Recolecta 10 monedas rojas para que te mantengas activo '
+    id: 3
+    type: 0
+    SeQuedaConItems: 1
+    Dato:
+      nombre: Monedas
+      cantidad: 10
+      itemId: 3
+    Pregunta: 1
+    Puntos: 300
+  - nombre: 'Una vista Peligrosa '
+    descripcion: 'El enemigo llamado el Didacta esta en este planeta dirigete a verlo '
+    id: 4
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: 
+      cantidad: 0
+      itemId: 0
+    Pregunta: 1
+    Puntos: 300
+  - nombre: 'Circuitos de Armamento '
+    descripcion: 'Recolecta 3 circuitos rojos que se encuentran en tu nave para ayudar
+      a detenerlo al Didacta '
+    id: 5
+    type: 0
+    SeQuedaConItems: 1
+    Dato:
+      nombre: CircuitoArmamento
+      cantidad: 3
+      itemId: 0
+    Pregunta: 1
+    Puntos: 300
+  - nombre: 'Impacto brutal '
+    descripcion: "Dirigete a tu nave para ver si algo de ah\xED te sirve de ayuda "
+    id: 6
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: 
+      cantidad: 0
+      itemId: 0
+    Pregunta: 1
+    Puntos: 300
+  - nombre: "Una peque\xF1a parte te ayuda "
+    descripcion: Dirigete a tu nave en la parte azul para coloca el constructor para
+      repararla
+    id: 7
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: 
+      cantidad: 0
+      itemId: 0
+    Pregunta: 1
+    Puntos: 300
+  - nombre: "Son peque\xF1os pero ayudan un mont\xF3n"
+    descripcion: Dirigete a tu nave y en todos los lugares azules coloca los constructores
+    id: 8
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: Constructor
+      cantidad: 1
+      itemId: 5
+    Pregunta: 1
+    Puntos: 300
+  - nombre: Circuitos colocados correctamente te sirven
+    descripcion: Coloca los constructores entregados por la bibliotecaria
+    id: 9
+    type: 2
+    SeQuedaConItems: 0
+    Dato:
+      nombre: Circuito Entrega
+      cantidad: 1
+      itemId: 6
+    Pregunta: 1
+    Puntos: 300

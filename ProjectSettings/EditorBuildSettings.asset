@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 7929a00c024bc91449abb34b814738e2
+  - enabled: 1
+    path: Assets/Scenes/LongbowCinematica.unity
+    guid: 3fab60225de17d249a8ba43309a77b80
+  - enabled: 1
+    path: Assets/Scenes/ElegirPersonaje.unity
+    guid: 184061176a5cda44ab6349e8c063f5f3
+  - enabled: 1
+    path: Assets/Scenes/Longbow.unity
+    guid: 654c45d7c74ec434abd7cd03814f2fd7
+  - enabled: 1
+    path: Assets/Scenes/Longbow_CinematicaFinal.unity
+    guid: bebcc1f15eb0e3c43a6089106c8b48f5
+  - enabled: 1
+    path: Assets/Scenes/Longbow_CinematicaFinal2GameOver.unity
+    guid: 06cafe232721d994b8ded4eef7e4961a
+  m_configObjects: {}

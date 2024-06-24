@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: b3814f7a3509b224da5a596c3a33a4fd
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_dom_unsc_decals001
+    second: {fileID: 2100000, guid: 574d450989df83949a6e5ab64dd45ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_concrete_01
+    second: {fileID: 2100000, guid: 2e6c5e6a991e2024782a52ca0ddb7e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_concrete_01_layered
+    second: {fileID: 2100000, guid: 5ce7f28a3e68eb744a40af2e0245d2ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_concrete_02
+    second: {fileID: 2100000, guid: a416c36edb5c13448a8538dc3aa4c484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_floorpanel_diamond
+    second: {fileID: 2100000, guid: 85768d8ac3f83c04799356ee4b34bb7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_glass
+    second: {fileID: 2100000, guid: 063543540e0a2a54db43edca22efdc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_grate_02
+    second: {fileID: 2100000, guid: 7cbfe4002bd10144ba3ce4b7790fd95f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_grate_03
+    second: {fileID: 2100000, guid: 8ec68023410970c4ba0371178c9858a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_grate_square_fud
+    second: {fileID: 2100000, guid: 5af90245e9ef2024cafcd73447a06c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_metal_slats_01
+    second: {fileID: 2100000, guid: 0915eb57728a06442b048a267cd67100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_oil_tank_01
+    second: {fileID: 2100000, guid: e8be2ec493234f8499dd2fdff5b4c9bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_panel_01
+    second: {fileID: 2100000, guid: e3a793cd5f814f749884ee593e21f95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_panel_trim_01
+    second: {fileID: 2100000, guid: b70a196c253ea5548a2079e4cd8de2c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_pipes_01
+    second: {fileID: 2100000, guid: d964ed5330ea2044fb4b12ed0409188a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_plate_01
+    second: {fileID: 2100000, guid: 81e3ab58206266d499f523dba6978034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_plate_02
+    second: {fileID: 2100000, guid: e20c2122478cdca419fa9bb4cc5f232a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_plate_03
+    second: {fileID: 2100000, guid: 5cbc25fa6ec70924faa967dbcb9c2c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_plate_03_snow
+    second: {fileID: 2100000, guid: cba33a245751d1540a822d76a04b13b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_railing_01
+    second: {fileID: 2100000, guid: 96b4f79449baa1a438afec3c51298fd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_ribbedmetal
+    second: {fileID: 2100000, guid: 7797bb9cce42a4349b493f5268d56b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_tiles05
+    second: {fileID: 2100000, guid: 3d1742f8d63e406468eef9220a10411d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_trim_01
+    second: {fileID: 2100000, guid: 1e4d4de094f86c742b1fb94d433c9d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_trim_02
+    second: {fileID: 2100000, guid: 9304216266487ff4fb944c0ac056b90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_ind_window_01
+    second: {fileID: 2100000, guid: 07aa3ba30d878b04ba909c56c69812c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_lights_01
+    second: {fileID: 2100000, guid: 2bc36e25888a75948a7e4ca576dbe069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_armor_tile_01
+    second: {fileID: 2100000, guid: af878306be4415043a2eb5a81f6d5783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_armor_trim_01
+    second: {fileID: 2100000, guid: 035ce187ea4f3584381debfc553ce5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_armor_wall_01
+    second: {fileID: 2100000, guid: 6e6a51600491c0b4cb5a344c5108e98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_armor_wall_02
+    second: {fileID: 2100000, guid: 6cd64ad0195144443928d4b5f9e1bfaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_int_armor_tile
+    second: {fileID: 2100000, guid: 6fffd7634f7317e4181f458b53b9b1dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_int_armor_trim
+    second: {fileID: 2100000, guid: 2704bc36394966f449e76ed9eb6e3c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_int_armor_wall
+    second: {fileID: 2100000, guid: 0fb9cef5fad32fa4688ca72fcbf0e73e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_grate_01
+    second: {fileID: 2100000, guid: 7df1c46a3333d90418416e904e0694de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_grate_02
+    second: {fileID: 2100000, guid: 053dd81e54c82f3439438600054daa47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_mechanical
+    second: {fileID: 2100000, guid: 6dfd6e3a1280b5e4d856f564e0152d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_pipes
+    second: {fileID: 2100000, guid: d1b2907e3a206b54f86cce531fafdccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_trim_01
+    second: {fileID: 2100000, guid: 00adc5cc7f0bee5409d0709abdfdacfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_mil_metal_trim_03
+    second: {fileID: 2100000, guid: 3404f77512b8f074998827dfe0c8e64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_boulder_02
+    second: {fileID: 2100000, guid: 37e9ca11bdacc1d4c8d2385135d7a5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_boulder_med_01
+    second: {fileID: 2100000, guid: 50c7484f1a17ed8479c84a31c6c1689c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_glacier
+    second: {fileID: 2100000, guid: 2d03079588009ce42828ef275e42d7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_ice_boulder_01
+    second: {fileID: 2100000, guid: 6e604ef4778ee9845af0b71f82ba0015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_layered_001
+    second: {fileID: 2100000, guid: 80c4a61c2a0578a4a9f24911f1d70fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_dirt_blend_003
+    second: {fileID: 2100000, guid: ed4081a3b2ef26c4eb0a9f4ffc15ec93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_dirt_blend_004
+    second: {fileID: 2100000, guid: c5c4718af009beb47bbcf29dd01bcb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_snow_blend_005
+    second: {fileID: 2100000, guid: 65358a584f867274faab586e705aa3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_snow_blend_006
+    second: {fileID: 2100000, guid: c607bb27060828c44821654ed2df2ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_snow_blend_007
+    second: {fileID: 2100000, guid: d052472a8c4da194593b627a15adc3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrain_rock_snow_blend_009
+    second: {fileID: 2100000, guid: 108394160ed5ba8459b9cb12f4b91797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_terrian_ice_boulder_med_01
+    second: {fileID: 2100000, guid: 469f65ba31d5da546b5e461194cad1a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ca_gore_unsc_metal_grate
+    second: {fileID: 2100000, guid: b879d409999416243821420ea22fc15d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

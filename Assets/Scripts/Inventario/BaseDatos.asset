@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26660e44fbe0d0f4099a8609fbeae0f8, type: 3}
+  m_Name: BaseDatos
+  m_EditorClassIdentifier: 
+  baseDatos:
+  - nombre: CircuitoArmamento
+    Id: 0
+    icono: {fileID: 21300000, guid: a1f2fb04a1ebdba44b55d775661c362a, type: 3}
+    tipo: 0
+    acumulable: 0
+    Descripcion: Circuito que activa armamento
+    Void: 
+  - nombre: CircuitoCoordenadas
+    Id: 1
+    icono: {fileID: 21300000, guid: 6b84099ff77b6174281a3c2d59a9aa6e, type: 3}
+    tipo: 0
+    acumulable: 0
+    Descripcion: "Circuito que da ubicaci\xF3n"
+    Void: 
+  - nombre: CircuitoMemoria
+    Id: 2
+    icono: {fileID: 21300000, guid: f17c023e8763a8446ab34dcb0ea46101, type: 3}
+    tipo: 0
+    acumulable: 0
+    Descripcion: "Circuito donde se encuentra informaci\xF3n"
+    Void: 
+  - nombre: MonedasExtra
+    Id: 3
+    icono: {fileID: 21300000, guid: f17c023e8763a8446ab34dcb0ea46101, type: 3}
+    tipo: 0
+    acumulable: 0
+    Descripcion: Moneda que permite aumentar mas puntos
+    Void: 
+  - nombre: relojs
+    Id: 4
+    icono: {fileID: 21300000, guid: f17c023e8763a8446ab34dcb0ea46101, type: 3}
+    tipo: 0
+    acumulable: 0
+    Descripcion: Reloj que te aumenta el puntaje y esta mas chingon
+    Void: 
+  - nombre: Constructores
+    Id: 5
+    icono: {fileID: 21300000, guid: f17c023e8763a8446ab34dcb0ea46101, type: 3}
+    tipo: 2
+    acumulable: 0
+    Descripcion: Un robot que te ayuda a reparar la nave
+    Void: 
+  - nombre: Circuitos Entrega
+    Id: 6
+    icono: {fileID: 21300000, guid: f17c023e8763a8446ab34dcb0ea46101, type: 3}
+    tipo: 2
+    acumulable: 0
+    Descripcion: Un circuito para la terminal que permite activar las defensas del
+      cryptum
+    Void: 
